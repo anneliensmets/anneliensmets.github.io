@@ -1,5 +1,5 @@
 ---
-title : Try something out
+title : Try something 
 feed: show
 date : 05-08-2022
 ---
