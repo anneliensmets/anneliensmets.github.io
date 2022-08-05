@@ -5,4 +5,4 @@ feedformat: card
 title: Notes
 ---
 
-The feed page shows a collection notes. 
+The feed page shows a collection of notes. 
